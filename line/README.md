@@ -1,5 +1,5 @@
 # Line Bot echo-reply example with etcd
-The simply echo-reply example for Line bot. In this example, the webhook server will connect to etcd and get the matched response for the incoming message. You can easily create events by inserting the keyword/value records into etcd.
+The simply echo-reply example for Line bot. In this example, the webhook server will connect to etcd and get the matched responses for the incoming messages. You can easily create events by inserting the keyword/value records into etcd.
 
 ## Preparation
 
